@@ -1,2 +1,1 @@
-console.log("meows");
-console.log("mewos");
+console.log("meows")
